@@ -1,4 +1,4 @@
-package com.company.from1to100;
+package com.company.from1to100.problem1;
 
 //Two sum
 public class Problem1 {
