@@ -1,4 +1,4 @@
-package com.company.from1001to11000.problem1005;
+package com.company.from1001to1100.problem1005;
 
 import java.util.Arrays;
 

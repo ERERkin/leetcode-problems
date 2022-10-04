@@ -1,4 +1,4 @@
-package com.company.from1001to11000.problem1013;
+package com.company.from1001to1100.problem1013;
 
 public class Problem1013 {
 
